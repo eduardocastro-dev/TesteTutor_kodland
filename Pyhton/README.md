@@ -19,7 +19,7 @@ Um jogo de ação do gênero Roguelike desenvolvido em Python com a biblioteca *
 ## Como Executar o Projeto
 
 ### Pré-requisitos
-*   Python 3.6 ou superior
+*   Python 3.8 
 
 ### Instalação
 1.  Clone este repositório para a sua máquina local.
